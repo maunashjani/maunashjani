@@ -89,6 +89,11 @@
   <a href="https://x.com/maunashjani">https://x.com/maunashjani</a>
 </p>
 
+<p>
+  <b>LinkedIn:</b> 
+  <a href="https://www.linkedin.com/in/maunashjani">https://www.linkedin.com/in/maunashjani</a>
+</p>
+
 <hr/>
 
 <!-- ================= FOOTER ================= -->
